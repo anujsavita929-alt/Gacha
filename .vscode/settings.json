@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "Gacha"
-    ]
+    ],
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt -lwinmm && $dir$fileNameWithoutExt"
+    }
 }

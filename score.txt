@@ -1,4 +1,4 @@
-guess_number : 30
-math_quiz : 3
-rps : 1
-tic_tac_toe : 1
+guess_number : 105
+math_quiz : 10
+rps : 3
+tic_tac_toe : 5
